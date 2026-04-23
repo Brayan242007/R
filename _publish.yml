@@ -1,0 +1,4 @@
+- source: Tablas.qmd
+  quarto-pub:
+    - id: f86ee813-4d43-45b5-950a-b7c65df5fb6d
+      url: https://dayanne17.quarto.pub/distribuciones-de-frecuencias
